@@ -1,0 +1,38 @@
+.new-ground, .gw-sidebar {
+  background-color: #0C1446 !important;
+  border: #000000 !important;
+}
+
+.new-fore {
+  background-color: #00A0A6 !important;
+  border: #00A0A6 !important;
+}
+
+.new-focus {
+  background-color: #A5CFE3 !important;
+}
+
+.new-clicks {
+  background-color: #175873 !important;
+  border: #175873 !important;
+}
+
+.gw-login a {
+  background-color: #4D0BD2 !important;
+}
+
+.new-bullets {
+  color: #00A0A6 !important;
+}
+
+li a:focus, .copyright a:focus {
+  color: #00A0A6 !important;
+}
+
+li a:hover, .copyright a:hover {
+  color: #00A0A6 !important;
+}
+
+li a:active, .copyright a:active {
+  color: #00A0A6 !important;
+}
